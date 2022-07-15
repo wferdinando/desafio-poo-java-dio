@@ -1,6 +1,4 @@
-<h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
-
-<p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</p>
+<p><strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</p>
 
 
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
